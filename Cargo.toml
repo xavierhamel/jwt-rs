@@ -1,0 +1,15 @@
+[package]
+name = "jwt_rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Xavier Hamel"]
+description = "A JWT implementation for Rust"
+keywords = ["jwt", "json web token"]
+
+
+[dependencies]
+base64 = "0.13.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sha2 = "0.10"
+hmac = "0.12"
