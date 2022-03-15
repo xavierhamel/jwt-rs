@@ -5,6 +5,10 @@ edition = "2021"
 authors = ["Xavier Hamel"]
 description = "A Json Web Token (JWT) implementation for Rust"
 keywords = ["jwt", "web", "json", "token"]
+lisence = "MIT"
+repository = "https://github.com/xavierhamel/jwt-rs"
+homepage = "https://github.com/xavierhamel/jwt-rs"
+readme = "README.md"
 
 
 [dependencies]
