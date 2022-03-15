@@ -1,4 +1,6 @@
 # JWT.rs
+[Complete Documentation](https://docs.rs/jwt_rs/0.1.0/jwt_rs/)
+
 A simple Json Web Token crate. The crate let's you create, sign, verify and extract data from
 JWT tokens. Data is serialized with `serde` and `serde_json`.
 
