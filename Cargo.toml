@@ -3,8 +3,8 @@ name = "jwt_rs"
 version = "0.1.0"
 edition = "2021"
 authors = ["Xavier Hamel"]
-description = "A JWT implementation for Rust"
-keywords = ["jwt", "json web token"]
+description = "A Json Web Token (JWT) implementation for Rust"
+keywords = ["jwt", "web", "json", "token"]
 
 
 [dependencies]
